@@ -1,5 +1,6 @@
                                                         🔥 FLAMES in Fire 🍔
 Welcome to Flavortown FLAMES, the ultimate compatibility calculator with a culinary twist! Instead of boring text results, this app serves up destiny on a plate using custom "Fate Panels" featuring our signature Chef characters.
+[Flames](https://the-overlord-god.github.io/Flames-in-fire/)
 
                                                          👨‍🍳 What is this?
 FLAMES is a classic game used to predict the relationship between two people. We've modernized it with a "Chef’s Special" UI, using glassmorphism effects and custom-generated artwork to make revealing your fate an interactive experience.
